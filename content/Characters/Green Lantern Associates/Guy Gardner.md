@@ -1,5 +1,5 @@
 ---
-title: Barbara Gordon
+title: Guy Gardner
 draft: false
 tags:
 ---

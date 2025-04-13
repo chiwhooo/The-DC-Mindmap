@@ -1,5 +1,5 @@
 ---
-title: Barbara Gordon
+title: Kara Zor-El
 draft: false
 tags:
 ---

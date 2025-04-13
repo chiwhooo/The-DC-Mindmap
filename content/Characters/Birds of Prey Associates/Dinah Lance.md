@@ -1,5 +1,5 @@
 ---
-title: '"Dinah Lance"'
+title: Dinah Lance
 draft: false
 tags:
 ---

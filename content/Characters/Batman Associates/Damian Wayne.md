@@ -1,5 +1,5 @@
 ---
-title: '"Damian Wayne"'
+title: Damian Wayne
 draft: false
 tags:
 ---

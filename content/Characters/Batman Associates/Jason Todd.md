@@ -1,5 +1,5 @@
 ---
-title: '"Jason Todd"'
+title: Jason Todd
 draft: false
 tags:
 ---

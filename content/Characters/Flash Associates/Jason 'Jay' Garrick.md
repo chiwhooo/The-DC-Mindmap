@@ -1,5 +1,5 @@
 ---
-title: Barbara Gordon
+title: Jason 'Jay' Garrick
 draft: false
 tags:
 ---

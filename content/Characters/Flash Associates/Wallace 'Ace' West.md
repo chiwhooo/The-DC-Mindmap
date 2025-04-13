@@ -1,5 +1,5 @@
 ---
-title: Barbara Gordon
+title: Wallace 'Ace' West
 draft: false
 tags:
 ---

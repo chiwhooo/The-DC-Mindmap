@@ -1,5 +1,5 @@
 ---
-title: Barbara Gordon
+title: Harold 'Hal' Jordan
 draft: false
 tags:
 ---

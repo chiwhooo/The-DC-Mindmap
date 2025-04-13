@@ -1,5 +1,5 @@
 ---
-title: '"Selina Kyle"'
+title: Selina Kyle
 draft: false
 tags:
 ---

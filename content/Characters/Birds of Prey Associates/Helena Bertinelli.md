@@ -1,5 +1,5 @@
 ---
-title: '"Helena Bertinelli"'
+title: Helena Bertinelli
 draft: false
 tags:
 ---

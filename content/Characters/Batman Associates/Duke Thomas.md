@@ -1,5 +1,5 @@
 ---
-title: '"Duke Thomas"'
+title: Duke Thomas
 draft: false
 tags:
 ---

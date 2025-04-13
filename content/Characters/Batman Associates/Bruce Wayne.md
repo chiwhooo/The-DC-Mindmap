@@ -1,5 +1,5 @@
 ---
-title: '"Bruce Wayne"'
+title: Bruce Wayne
 draft: false
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: '"Harper Row"'
+title: Harper Row
 draft: false
 tags:
 ---

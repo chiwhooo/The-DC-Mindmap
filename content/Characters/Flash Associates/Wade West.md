@@ -1,5 +1,5 @@
 ---
-title: Barbara Gordon
+title: Wade West
 draft: false
 tags:
 ---

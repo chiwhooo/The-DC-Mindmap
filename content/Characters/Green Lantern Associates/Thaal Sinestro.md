@@ -1,5 +1,5 @@
 ---
-title: Barbara Gordon
+title: Thaal Sinestro
 draft: false
 tags:
 ---

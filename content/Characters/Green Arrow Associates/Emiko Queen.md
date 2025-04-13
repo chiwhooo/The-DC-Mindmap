@@ -1,5 +1,5 @@
 ---
-title: Barbara Gordon
+title: Emiko Queen
 draft: false
 tags:
 ---

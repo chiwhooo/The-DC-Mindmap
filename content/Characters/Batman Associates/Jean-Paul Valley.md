@@ -1,5 +1,5 @@
 ---
-title: '"Jean-Paul Valley"'
+title: Jean-Paul Valley
 draft: false
 tags:
 ---
