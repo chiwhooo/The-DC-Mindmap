@@ -2,6 +2,8 @@
 title: '"The Flash (Volume 6, Issue 19)"'
 draft: false
 tags:
+  - The-Flash-Volume-6
+  - The-Flash-Family
 ---
 This issue continues off from the last, cutting straight to the clone of [[Wallace 'Wally' West]] attacking and being aggressive towards [[Richard 'Dick' Grayson]], [[Dinah Lance]], [[Linda Park-West]], [[Wade West]], [[Wade West - Unknown Universe]], [[Iris 'Irey' West II]] and INSERT OTHER CHARACTERS HERE. However, before anything more serious can occur, [[Wallace 'Ace' West]], [[Bartholomew 'Bart' Allen II]], [[Max Mercury]] and [[Avery Ho]] arrive and corral Wally into not moving so that [[Clark 'Kal-El' Kent]] can boom-tube him away from anyone and act as a distraction so [[Oliver 'Ollie' Queen]] can supress him using [[Gorilla Grodd]] technology. Linda argues against this, saying that the plan won't work and Wally will likely be too powerful to be restrained by such means.
 
@@ -14,5 +16,3 @@ We cut to the clone of Wally and the grown Wade, they are floating through alter
 We return to the other scene; with LIZARD LADY confronting Eclipso, who admits to his plans. LIZARD LADY reacts negatively to this and destroys the object which held all the loathing and hatred. Eclipso plans to kill and consume the power of the Flash family for his own, but Foxy interrupts and reveals his own powers to take on Eclipso in defence of his "pack". Foxy presumably is killed by Eclipso and the place starts to fall apart, Jai manages to teleport them away to the moon before they sustain any damage.
 
 Linda and Wally start to talk, before clone-Wally interrupts and warns Wally of Eclipso's danger. He urges them to re-merge, and start to before the original Wally hears a distant bark from Foxy in the speedforce and gets distracted, causing clone-Wally's death when Eclipso comes and eats him. Eclipso announces his new rise under the name Meliophage and warns Earth of what's to come.
-
-Additional Tags:  [[The Flash (Volume 6)]], [[Flash Family]]

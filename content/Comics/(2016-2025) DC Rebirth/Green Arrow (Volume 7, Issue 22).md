@@ -2,6 +2,7 @@
 title: '"Green Arrow (Volume 7, Issue 22)"'
 draft: false
 tags:
+  - Green-Arrow-Volume-7
 ---
 The opening is an TV advertisement by politician [[Eustace Foley]], revealing the new and affordable housing location of 'Freshwater'. It's interrupted by the reveal we are watching this from a support group composed of those effected by the poisoning to the water, most of which are ill, dying or their loved ones have passed. The speaker is revealed to be [[Kenny Gordon]], the grown figure of the young boy from the first couple of comics who is rallying other victims at the group.
 

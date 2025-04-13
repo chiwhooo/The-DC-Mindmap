@@ -5,4 +5,4 @@ This is a labour of love produced by Tumblr user [@halitis](https://www.tumblr.c
 
 For more technological updates and university work, find my website [here](https://chiwhooo.wordpress.com/)
 
-For other websites like this, I recommend the [DC Continuity Project](http://www.dccontinuityproject.com/) and the [DC Database](https://dc.fandom.com/wiki/DC_Comics_Database). These were some of the inspirations behind this project are the work of many individuals, cannot recommend more to check out!
+For other websites like this, I recommend the [DC Continuity Project](http://www.dccontinuityproject.com/) and the [DC Database](https://dc.fandom.com/wiki/DC_Comics_Database). These were some of the inspirations behind this project and are the work of many individuals, cannot recommend more to check out!
