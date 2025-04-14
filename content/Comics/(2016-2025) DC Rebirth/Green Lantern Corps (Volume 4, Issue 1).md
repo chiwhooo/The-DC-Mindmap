@@ -3,6 +3,7 @@ title: Green Lantern Corps (Volume 4, Issue 1)
 draft: false
 tags:
   - Green-Lantern-Corps-Volume-4
+  - Rebirth
 ---
 The comic opens with [[John Stewart]] arresting and interrupting an alien child trafficking ring, and noting that the 'United Planets' are currently in disarray and chaotic; without order due to the reopening of [[Sector 2814]] which has started trade routes again and as a result larger scale crimes. [[Sojourner 'Jo' Mullein]] talks to John, trying to encourage him to talk about his feelings and what has been happening in his life currently; as he's going through a stressful period but John refuses to talk about it, brushing off her concerns.
 

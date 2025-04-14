@@ -4,6 +4,7 @@ draft: false
 tags:
   - The-Flash-Volume-6
   - The-Flash-Family
+  - Rebirth
 ---
 This issue continues off from the last, cutting straight to the clone of [[Wallace 'Wally' West]] attacking and being aggressive towards [[Richard 'Dick' Grayson]], [[Dinah Lance]], [[Linda Park-West]], [[Wade West]], [[Wade West - Unknown Universe]], [[Iris 'Irey' West II]] and INSERT OTHER CHARACTERS HERE. However, before anything more serious can occur, [[Wallace 'Ace' West]], [[Bartholomew 'Bart' Allen II]], [[Max Mercury]] and [[Avery Ho]] arrive and corral Wally into not moving so that [[Clark 'Kal-El' Kent]] can boom-tube him away from anyone and act as a distraction so [[Oliver 'Ollie' Queen]] can supress him using [[Gorilla Grodd]] technology. Linda argues against this, saying that the plan won't work and Wally will likely be too powerful to be restrained by such means.
 
