@@ -1,8 +1,9 @@
 ---
-title: Iris 'Irey' West II
+title: Hartley Rathaway
 draft: false
 tags:
   - Hero
+  - Villian
   - The-Flash-Family
-  - Keystone-City
+  - Central-City
 ---

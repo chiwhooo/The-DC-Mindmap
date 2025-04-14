@@ -1,8 +1,8 @@
 ---
-title: Clark 'Kal-El' Kent
+title: Kara 'Zor-El' Danvers
 draft: false
 tags:
   - Hero
-  - Metropolis
   - Super-Family
+  - National-City
 ---

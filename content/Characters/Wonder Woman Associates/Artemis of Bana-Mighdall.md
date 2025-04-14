@@ -1,5 +1,8 @@
 ---
 title: Artemis of Bana-Mighdall
 draft: false
-tags: []
+tags:
+  - Hero
+  - Bana-Mighdall
+  - Gotham
 ---

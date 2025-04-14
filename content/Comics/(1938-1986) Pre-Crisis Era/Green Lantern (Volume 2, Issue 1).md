@@ -1,5 +1,5 @@
 ---
-title: '"Green Lantern (Volume 2, Issue 1)"'
+title: Green Lantern (Volume 2, Issue 1)
 draft: false
 tags:
   - Green-Lantern-Volume-2

@@ -1,5 +1,5 @@
 ---
-title: '"Green Lantern Corps (Volume 4, Issue 1)"'
+title: Green Lantern Corps (Volume 4, Issue 1)
 draft: false
 tags:
   - Green-Lantern-Corps-Volume-4

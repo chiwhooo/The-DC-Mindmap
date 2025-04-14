@@ -1,5 +1,5 @@
 ---
-title: '"Green Arrow (Volume 7, Issue 22)"'
+title: Green Arrow (Volume 7, Issue 22)
 draft: false
 tags:
   - Green-Arrow-Volume-7

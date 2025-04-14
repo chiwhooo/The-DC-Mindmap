@@ -1,5 +1,5 @@
 ---
-title: '"The Flash (Volume 6, Issue 19)"'
+title: The Flash (Volume 6, Issue 19)
 draft: false
 tags:
   - The-Flash-Volume-6
