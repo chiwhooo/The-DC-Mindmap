@@ -6,6 +6,7 @@ tags:
   - Rebirth
   - Freshwater-Killer
   - Oliver-Queen
+  - Star-City
 ---
 It is confirmed that [[Kenny Gordon]] is the originator of the [[Freshwater Killer]] group: wearing gas masks as a symbol of the poison they were breathing in; a red raincoat as a representation of little red riding hood and how they were also lied to and sold a fairy-tale and finally a pipe as a weapon, the same pipes that were pumping deadly water into their houses. Kenny confirms that their plan of killing those who poisoned them is by using the same water that was used on them.
 
