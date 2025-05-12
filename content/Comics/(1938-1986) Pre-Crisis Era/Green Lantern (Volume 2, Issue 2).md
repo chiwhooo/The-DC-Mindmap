@@ -1,6 +1,6 @@
 ---
 title: Green Lantern (Volume 2, Issue 2)
-draft: false
+draft: true
 tags:
   - Green-Lantern-Volume-2
   - Green-Lantern

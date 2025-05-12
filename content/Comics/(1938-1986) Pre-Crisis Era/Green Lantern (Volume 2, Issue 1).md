@@ -5,6 +5,7 @@ tags:
   - Green-Lantern-Volume-2
   - Green-Lantern
   - Pre-Crisis
+  - Hal-Jordan
 ---
 The issue starts with Hal at work as a test pilot, before his incorporeal form is summoned to face the [[Guardians of the Universe]] and goes over his history so far as the Green Lantern so the Guardians can decide if Hal is a suitable candidate. The Guardians declare that Hal is worthy of the title and temporarily remove the memory of the interview from his mind.
 
