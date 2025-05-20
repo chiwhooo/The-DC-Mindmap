@@ -6,3 +6,4 @@ tags:
   - The-Flash-Family
   - Central-City
 ---
+Youngest lead CSI investigator in central city history

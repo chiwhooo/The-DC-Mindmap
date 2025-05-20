@@ -5,4 +5,5 @@ tags:
   - The-Flash-Volume-6
   - Rebirth
   - Wally-West
+  - The-Flash
 ---
