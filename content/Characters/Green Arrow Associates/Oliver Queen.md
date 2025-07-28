@@ -1,5 +1,5 @@
 ---
-title: Oliver 'Ollie' Queen
+title: Oliver  Queen
 draft: false
 tags:
   - Hero

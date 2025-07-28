@@ -16,5 +16,3 @@ It's also discussed that there is currently a large surge in fear energy on [[Ta
 On Tamaran, they run into the current queen, [[Komand'r 'Blackfire']], who is against Green Lantern interference and is antagonised further by Sinestro. The source of the fear energy and destruction is being caused by a Tamaranian called Vexar'u the Zealot, who was so afraid of their God and that she would be deemed unworthy she had manifested that being. Sinestro manages to calm her down and grants her a Green Lantern power ring in recognition of her capability to overcome her fear. 
 
 When the return to [[Oa]], they discuss their findings with the others. It's decided that they are going to try and recruit more individuals who are capable of using other emotional energy (at the encouragement of Sinestro and John). Jess then tells John that he has been requested by [[Thangar]]ians for a political mission to help restore their home world and is greeted by [[Shayera Thal]].
-
-Additional Tags: [[Green Lantern Corps (Volume 4)]]
